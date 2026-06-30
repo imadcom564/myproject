@@ -30,7 +30,7 @@ void MAX_Num()
 
 
 
-    cout << "Days : " << Switch1 << " |Hours : " << Switch2 << " |Minutes : " << Switch3 << " |Seconds : " << Switch4 << endl;
+    cout << "Days : " << Switch1 << " |Hours : " << Switch2 << " |Minutes : " << Switch3 << " |Seconds : " << Switch4 << endl;//Print All Switch Value
 
     
 }
